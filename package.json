@@ -1,0 +1,23 @@
+{
+  "name": "animejs-shake-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server . -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminmeyghani/animejs-shake-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminmeyghani/animejs-shake-form/issues"
+  },
+  "homepage": "https://github.com/aminmeyghani/animejs-shake-form#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
